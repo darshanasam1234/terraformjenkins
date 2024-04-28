@@ -1,4 +1,4 @@
 resource "azurerm_resource_group" "myproddeployment12345"{
-    locaiton="eastus"
+    locatino="eastus"
     name="myproddeployment123456"
 }
