@@ -8,5 +8,5 @@ resource "azurerm_resource_group" "myproddeployment12345444678"{
 }
 resource "azurerm_resource_group" "jenkinsautoprod"{
     location="eastus"
-    name="myproddeployment123456"
+    name="jenkins"
 }
